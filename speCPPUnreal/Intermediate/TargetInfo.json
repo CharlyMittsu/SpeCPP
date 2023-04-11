@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "speCPPUnreal",
+			"Path": "D:\\charlesUnreal\\speCPPUnreal\\Source\\speCPPUnreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "speCPPUnrealEditor",
+			"Path": "D:\\charlesUnreal\\speCPPUnreal\\Source\\speCPPUnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

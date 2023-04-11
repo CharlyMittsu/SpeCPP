@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\charlesUnreal\\speCPPUnreal\\Source\\speCPPUnreal\\speCPPUnreal.Build.cs",
+		"D:\\charlesUnreal\\speCPPUnreal\\Source\\speCPPUnreal.Target.cs",
+		"D:\\charlesUnreal\\speCPPUnreal\\Source\\speCPPUnrealEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,3 @@
+D:\charlesUnreal\speCPPUnreal\Intermediate\Build\Win64\UE4Editor\Development\speCPPUnreal\Definitions.speCPPUnreal.h
+D:\charlesUnreal\speCPPUnreal\Source\speCPPUnreal\Public\MyFonction.h
+D:\charlesUnreal\speCPPUnreal\Intermediate\Build\Win64\UE4Editor\Inc\speCPPUnreal\MyFonction.generated.h

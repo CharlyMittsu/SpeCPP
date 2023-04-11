@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\speCPPUnreal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E87B4CED-577C-45B0-9BD5-5FE3D56E58AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\speCPPUnreal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\speCPPUnrealEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{396E34E4-893A-4E1A-BD8E-B3EBD646E67E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\speCPPUnreal">
+      <UniqueIdentifier>{B69D0646-F9F1-4CEF-9A31-D068DE3FE319}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\speCPPUnreal\speCPPUnreal.Build.cs">
+      <Filter>Source\speCPPUnreal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\speCPPUnreal\speCPPUnreal.cpp">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\speCPPUnreal\speCPPUnreal.h">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\speCPPUnreal\speCPPUnrealCharacter.cpp">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\speCPPUnreal\speCPPUnrealCharacter.h">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\speCPPUnreal\speCPPUnrealGameMode.cpp">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\speCPPUnreal\speCPPUnrealGameMode.h">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\speCPPUnreal\speCPPUnrealHUD.cpp">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\speCPPUnreal\speCPPUnrealHUD.h">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\speCPPUnreal\speCPPUnrealProjectile.cpp">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\speCPPUnreal\speCPPUnrealProjectile.h">
+      <Filter>Source\speCPPUnreal</Filter>
+    </ClInclude>
+    <Filter Include="Source\speCPPUnreal\Private">
+      <UniqueIdentifier>{799A8A57-FF5D-4E12-B119-C812718427BF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\speCPPUnreal\Private\MyFonction.cpp">
+      <Filter>Source\speCPPUnreal\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\speCPPUnreal\Public">
+      <UniqueIdentifier>{28993E5B-E489-4D85-B93B-2A6A7DF4EC10}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\speCPPUnreal\Public\MyFonction.h">
+      <Filter>Source\speCPPUnreal\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
